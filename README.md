@@ -16,5 +16,5 @@ I want to contribute to keeping an open web, developing apps, and building commu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=dark&hide_border=false)
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)]([[https://www.linkedin.com/feed/](https://www.linkedin.com/in/reachnou/)](https://www.linkedin.com/in/reach-nou/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/reach-nou/))
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/reach_nou/)
