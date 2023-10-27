@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Reach 😎️
+### Hi, I'm Reach. Welcome!!! 
 
-I want to contribute to keeping an open web, developing apps, and building communities. Some languages I enjoy working with JavaScript TypeScript NodeJS, Java, Django, PHP, React Native
+I want to work as a software architect, leading development teams, and creating intricate software solutions.
 
-###### A Web Developer 🚀 with experience of building React JS & Django
+###### Talented Software Developer with professional experience in designing and implementing software applications using Spring framework and ReactJS
 
 #### Social media:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reach-nou/)
