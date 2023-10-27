@@ -13,6 +13,7 @@ I want to work as a software architect, leading development teams, and creating 
 
 [![Reach's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Reach's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=dark&hide_border=false)
 
 
 #### Languages:
@@ -49,6 +50,4 @@ I want to work as a software architect, leading development teams, and creating 
 
 #### 🔗 Blockchain:
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=dark&hide_border=false)
 
