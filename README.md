@@ -13,6 +13,7 @@ I want to work as a software architect, leading development teams, and creating 
 
 [![Reach's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Reach's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+####
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=dark&hide_border=false)
 
 
@@ -40,6 +41,9 @@ I want to work as a software architect, leading development teams, and creating 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Mobile App:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 #### 💾 Databases: 
