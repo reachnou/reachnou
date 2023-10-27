@@ -4,6 +4,12 @@ I want to contribute to keeping an open web, developing apps, and building commu
 
 ###### A Web Developer 🚀 with experience of building React JS & Django
 
+#### Social media:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reach-nou/)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/reach_nou/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/noureach77)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 [![Reach's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Reach's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
@@ -46,6 +52,3 @@ I want to contribute to keeping an open web, developing apps, and building commu
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=dark&hide_border=false)
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reach-nou/)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/reach_nou/)
