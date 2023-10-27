@@ -13,7 +13,7 @@ I want to work as a software architect, leading development teams, and creating 
 
 [![Reach's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Reach's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=reachnou\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=light&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=reachnou&theme=light&hide_border=false)
 
 
 #### Languages:
